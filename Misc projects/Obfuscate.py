@@ -39,7 +39,15 @@ while a != int(a - a):
             chr(int(str(int(a - a)) + str(int(a / a)) + str(int(a / a)) + str(int(a / a)) + str(int(a / a)) + str(
                 int(a - a)) + str(int(a / a)) + str(int(a - a)), int(a / a) + int(a / a))) +
             chr(int(str(int(a - a)) + str(int(a / a)) + str(int(a / a)) + str(int(a / a)) + str(int(a / a)) + str(
-                int(a - a)) + str(int(a / a)) + str(int(a - a)), int(a / a) + int(a / a)))
+                int(a - a)) + str(int(a / a)) + str(int(a - a)), int(a / a) + int(a / a))) +
+            chr(int(str(int(a - a)) + str(int(a - a)) + str(int(a - a)) + str(int(a - a)) + str(int(a - a)) + str(
+                int(a - a)) + str(int(a - a)) + str(int(a - a)), int(a - a) + int(a - a))) +
+            chr(int(str(int(a - a)) + str(int(a - a)) + str(int(a - a)) + str(int(a - a)) + str(int(a - a)) + str(
+                int(a - a)) + str(int(a - a)) + str(int(a - a)), int(a - a) + int(a - a))) +
+            chr(int(str(int(a - a)) + str(int(a - a)) + str(int(a - a)) + str(int(a - a)) + str(int(a - a)) + str(
+                int(a - a)) + str(int(a - a)) + str(int(a - a)), int(a - a) + int(a - a))) +
+            chr(int(str(int(a - a)) + str(int(a - a)) + str(int(a - a)) + str(int(a - a)) + str(int(a - a)) + str(
+                int(a - a)) + str(int(a - a)) + str(int(a - a)), int(a - a) + int(a - a)))
         )
     elif a % (int(a / a) + int (a - a) + int(a / a) + int (a - a) + int(a / a) + int(a / a) + int(a / a)) == int(a - a):
         print(
@@ -50,7 +58,15 @@ while a != int(a - a):
             chr(int(str(int(a - a)) + str(int(a / a)) + str(int(a / a)) + str(int(a / a)) + str(int(a / a)) + str(
                 int(a - a)) + str(int(a / a)) + str(int(a - a)), int(a / a) + int(a / a))) +
             chr(int(str(int(a - a)) + str(int(a / a)) + str(int(a / a)) + str(int(a / a)) + str(int(a / a)) + str(
-                int(a - a)) + str(int(a / a)) + str(int(a - a)), int(a / a) + int(a / a)))
+                int(a - a)) + str(int(a / a)) + str(int(a - a)), int(a / a) + int(a / a))) +
+            chr(int(str(int(a - a)) + str(int(a - a)) + str(int(a - a)) + str(int(a - a)) + str(int(a - a)) + str(
+                int(a - a)) + str(int(a - a)) + str(int(a - a)), int(a - a) + int(a - a))) +
+            chr(int(str(int(a - a)) + str(int(a - a)) + str(int(a - a)) + str(int(a - a)) + str(int(a - a)) + str(
+                int(a - a)) + str(int(a - a)) + str(int(a - a)), int(a - a) + int(a - a))) +
+            chr(int(str(int(a - a)) + str(int(a - a)) + str(int(a - a)) + str(int(a - a)) + str(int(a - a)) + str(
+                int(a - a)) + str(int(a - a)) + str(int(a - a)), int(a - a) + int(a - a))) +
+            chr(int(str(int(a - a)) + str(int(a - a)) + str(int(a - a)) + str(int(a - a)) + str(int(a - a)) + str(
+                int(a - a)) + str(int(a - a)) + str(int(a - a)), int(a - a) + int(a - a)))
         )
     else:
         print(a)
